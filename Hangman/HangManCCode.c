@@ -1,10 +1,5 @@
-/*  HangMan Game
-
-    Name: Maximilian Adrian Mihoc
-    Student No: C12728559
-    Course: DT228/1
-    Group: C
-    Date: 10/11/2012
+/*  
+	HangMan Game
 */
 #include<stdio.h>
 #include<time.h>
