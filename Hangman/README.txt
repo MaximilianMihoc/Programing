@@ -1,1 +1,5 @@
-My first Game in C: Hangman Game
+Hangman Game
+
+My first Game in C
+
+ 
