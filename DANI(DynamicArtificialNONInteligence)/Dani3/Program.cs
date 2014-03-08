@@ -6,8 +6,6 @@ using System.IO;
 using System.Speech.Synthesis;
 
 /*
- * Student Name: Maximilian Mihoc
- * Student Number: C12728559
  *    DANI (Dynamic Artificial Non-Inteligence)
  *    
  *    DANI keeps a list of every word it knows with a link to every word that follows each word in 
